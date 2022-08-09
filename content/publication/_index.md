@@ -2,7 +2,7 @@
 title: Publications
 
 # Listing view
-view: 2
+view: 1
 
 # Optional banner image (relative to `assets/media/` folder).
 banner:
